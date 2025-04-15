@@ -1,4 +1,4 @@
-#Getting Started 
+## Getting Started 
 
 First complete all of the installment requirements on your terminal
 
@@ -18,3 +18,6 @@ Structure of Code
 └── README.md
 
 This project uses Gradio (https://www.gradio.app/guides/quickstart) to build a web application for a machine learning model. 
+
+
+## Boujee on a Budget 3.0
