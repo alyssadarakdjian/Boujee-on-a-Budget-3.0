@@ -10,12 +10,13 @@ python app.py
 
 
 Structure of Code
-├── app.py                  # Main UI built with Gradio
-├── budget_manager.py       # Core logic and data handling
-├── data/                   # Saved transactions (JSON)
-├── plots/                  # Generated charts and Excel reports
-├── requirements.txt
-└── README.md
+
+|-- app.py                  # Main UI built with Gradio
+|-- budget_manager.py       # Core logic and data handling
+|-- data/                   # Saved transactions (JSON)
+|-- plots/                  # Generated charts and Excel reports
+|-- requirements.txt
+|__ README.md
 
 This project uses Gradio (https://www.gradio.app/guides/quickstart) to build a web application for a machine learning model. 
 
