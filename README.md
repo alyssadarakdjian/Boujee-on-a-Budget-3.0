@@ -1,14 +1,22 @@
+## Boujee on a Budget 3.0
+Boujee on a Budget 3.0 provides a user-friendly AI application that allows users to set a monthly budget based on their income, track their expenses, and report insightful summaries of the users spending habits. 
+
+
 ## Getting Started 
 
-First complete all of the installment requirements on your terminal
-
-pip install -r requirements.txt
-python app.py
-
-
+** Clone the Repository ** 
+'''bash
 git clone https://github.com/your-username/boujee-on-a-budget-3.0.git
 cd boujee-on-a-budget
 
+** Install Dependencies ** 
+pip install -r requirements.txt
+
+** Run the App ** 
+python app.py
+
+** Note **
+I included a empty data/ folder with an example .csv file and a empty plots/ folder to start with
 
 Structure of Code
 
@@ -22,4 +30,4 @@ Structure of Code
 This project uses Gradio (https://www.gradio.app/guides/quickstart) to build a web application for a machine learning model. 
 
 
-## Boujee on a Budget 3.0
+
