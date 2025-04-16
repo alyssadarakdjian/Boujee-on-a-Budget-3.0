@@ -2,11 +2,12 @@
 
 First complete all of the installment requirements on your terminal
 
-git clone https://github.com/your-username/boujee-on-a-budget-3.0.git
-cd boujee-on-a-budget
-
 pip install -r requirements.txt
 python app.py
+
+
+git clone https://github.com/your-username/boujee-on-a-budget-3.0.git
+cd boujee-on-a-budget
 
 
 Structure of Code
