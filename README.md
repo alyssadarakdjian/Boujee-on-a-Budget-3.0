@@ -16,7 +16,7 @@ pip install -r requirements.txt
 python app.py
 
 ** Note **
-I included a empty data/ folder with an example .csv file and a empty plots/ folder to start with
+I included a empty data/ folder with an example .csv file to test. User will need to create an empty plots/ folder
 
 Structure of Code
 
