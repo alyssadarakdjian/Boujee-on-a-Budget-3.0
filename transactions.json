@@ -1,0 +1,53 @@
+{
+    "transactions": [
+        {
+            "amount": 100.0,
+            "category": "food",
+            "description": "$100 on coffee",
+            "date": "2025-04-09 19:37:44"
+        },
+        {
+            "amount": 200.0,
+            "category": "other",
+            "description": "$200 on clothes ",
+            "date": "2025-04-09 19:38:13"
+        },
+        {
+            "amount": 500.0,
+            "category": "rent",
+            "description": "$500 on rent",
+            "date": "2025-04-09 19:38:31"
+        },
+        {
+            "amount": 150.0,
+            "category": "other",
+            "description": "$150 on clothes",
+            "date": "2025-04-09 19:59:45"
+        },
+        {
+            "amount": 20.0,
+            "category": "food",
+            "description": "$20 on food",
+            "date": "2025-04-09 20:01:58"
+        },
+        {
+            "amount": 4030.0,
+            "category": "transport",
+            "description": "$4030",
+            "date": "2025-04-09 20:28:58"
+        },
+        {
+            "amount": 200.0,
+            "category": "other",
+            "description": "$200 on Pokemon",
+            "date": "2025-04-09 20:31:05"
+        },
+        {
+            "amount": 60.0,
+            "category": "other",
+            "description": "$60 on hair blowout",
+            "date": "2025-04-16 14:27:39"
+        }
+    ],
+    "budget_limit": 6000.0
+}
